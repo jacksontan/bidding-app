@@ -1,0 +1,12 @@
+INSERT INTO items VALUES(1, 'Gold Bar', 'A golden bar', '100', '2021-02-27 01:00:00'::timestamp);
+INSERT INTO items VALUES(2, 'Silver Bracelet', 'A beautiful bracelet', '200', '2021-02-17 02:00:00'::timestamp);
+INSERT INTO items VALUES(3, 'Mustang', 'A luxury car', '1000', '2021-02-18 02:30:00'::timestamp);
+INSERT INTO items VALUES(4, 'Laptop', 'A brand new laptop', '500', '2021-02-19 04:00:00'::timestamp);
+INSERT INTO items VALUES(5, 'Rolex', 'An expensive watch', '10', '2021-02-20 03:00:00'::timestamp);
+INSERT INTO items VALUES(6, 'House', 'A big house', '1000', '2021-02-25 02:00:00'::timestamp);
+INSERT INTO items VALUES(7, 'Dog', 'An obedient dog', '300', '2021-02-24 02:00:00');
+INSERT INTO items VALUES(8, 'Cat', 'A cute cat', '400', '2021-02-22 02:00:00'::timestamp);
+INSERT INTO items VALUES(9, 'Chicken', 'Cock a doodle doo', '500', '2021-02-21 02:00:00'::timestamp);
+INSERT INTO items VALUES(10, 'Sofa', 'A soft sofa', '600', '2021-02-28 02:00:00'::timestamp);
+INSERT INTO items VALUES(11, 'Bed', 'A restful bed', '700', '2021-02-26 02:00:00'::timestamp);
+INSERT INTO items VALUES(12, 'Fan', 'A windy fan', '800', '2021-02-27 02:00:00'::timestamp);
